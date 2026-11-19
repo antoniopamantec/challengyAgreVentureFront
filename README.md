@@ -87,4 +87,4 @@ text
 http://localhost:5173
 
 
-This project is licensed under the MIT License.
+
